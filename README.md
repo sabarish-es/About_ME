@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Python+Developer;Full+Stack+Developer+%7C+Data+Analytics+Enthusiast;Build+%7C+Debug+%7C+Learn+%7C+Repeat" alt="Typing SVG"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sabarish-es&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-111827?style=for-the-badge&logo=rocket&logoColor=22d3ee" alt="Open to opportunities"/>
 </p>
 
@@ -205,12 +205,12 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sabarish-es&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarish-es&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabarish-es&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub activity graph"/>
 
 </div>
 
@@ -222,7 +222,7 @@ Machine Learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="90%"/>
+<img src="https://raw.githubusercontent.com/sabarish-es/sabarish-es/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="90%"/>
 
 </div>
 
@@ -236,7 +236,7 @@ Machine Learning
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sabarish-es">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
