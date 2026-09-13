@@ -1,10 +1,38 @@
-# Setup
+# Sabarish GitHub Profile — Setup
 
-1. Rename/replace `YOUR_GITHUB_USERNAME` in README.md with your actual GitHub username.
-2. Replace `YOUR_LINKEDIN_URL` with your LinkedIn profile URL.
-3. Create a GitHub repository with the exact same name as your username.
-4. Upload README.md and the `assets` folder.
-5. For the contribution snake, add a GitHub Action that generates:
-   `output/github-contribution-grid-snake.svg`
+Repository:
+https://github.com/sabarish-es/sabarish-es
 
-The two custom SVG images in `assets/` are local, so they do not depend on external image hosting.
+## 1. Upload
+Upload:
+- README.md
+- assets/
+- .github/workflows/profile-cards.yml
+
+## 2. Run the workflow
+Open the repository:
+Actions -> Update GitHub Profile Cards -> Run workflow -> Run workflow
+
+The workflow generates:
+- assets/overview.light.svg
+- assets/overview.dark.svg
+- assets/contributions.light.svg
+- assets/contributions.dark.svg
+- assets/languages.light.svg
+- assets/languages.dark.svg
+- assets/rhythm.light.svg
+- assets/rhythm.dark.svg
+- assets/github-contribution-grid-snake.svg
+- assets/github-contribution-grid-snake.gif
+
+## 3. If Actions is disabled
+Go to the repository's Actions tab and enable workflows, then run the workflow manually.
+
+## Why the old images were broken
+The old README depended on public third-party Vercel image endpoints. Those services can be unreliable/rate-limited. The new version generates SVG cards inside your own profile repository using GitHub Actions, so the README loads local files instead. GitHub Readme Stats itself recommends GitHub Actions/static SVGs when the public endpoint is unreliable.
+
+## Important
+Your profile repository must be public and must be named exactly:
+sabarish-es
+
+Your README must be at the repository root.
