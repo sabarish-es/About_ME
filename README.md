@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Python+Developer;Full+Stack+Developer+%7C+Data+Analytics+Enthusiast;Build+%7C+Debug+%7C+Learn+%7C+Repeat" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Python+Developer;Full+Stack+Developer+%7C+Software+Trainer+🧑‍🏫;Build+%7C+Debug+%7C+Learn+%7C+Repeat" alt="Typing SVG"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sabarish-es&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
