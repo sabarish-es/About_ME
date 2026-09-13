@@ -1,274 +1,81 @@
-# Hey there 👋 I'm Sabarish E
+# Sabarish E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=900&lines=Software+Engineer+%7C+Python+Developer;Full+Stack+Developer+%7C+Data+Analytics+Enthusiast;Building+Projects+%7C+Learning+%7C+Growing+Every+Day" />
+Software Developer & Technical Trainer | B.Sc. Computer Science, 2025
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👨‍💻 About Me
-
-* 🎓 B.Sc. Computer Science — 2025 Graduate
-* 💻 Software Developer & Technical Trainer
-* 🐍 Passionate about **Python & Backend Development**
-* 📊 Currently preparing for **Data Analyst / Data Scientist** roles
-* 🌐 Building modern applications using **React, Next.js & Node.js**
-* 🗄️ Experienced with **MySQL & Database Design**
-* 🚀 Love turning ideas into real-world projects
-* 📚 Continuous learner who enjoys teaching and sharing knowledge
-* 🎯 Currently focused on becoming a strong **Software Engineer + Data Professional**
-
-<br clear="right"/>
+I build full-stack web applications and am developing expertise in data analytics, with a focus on Python, SQL, and modern JavaScript frameworks.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## About
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,php" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### Database & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-**Data & Analytics:**
-`Python` • `Pandas` • `NumPy` • `SQL` • `Excel` • `Data Visualization` • `Statistics`
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,firebase,postman" />
-</p>
+- Software developer and technical trainer with a background in full-stack web development
+- Working toward Data Analyst / Data Scientist roles, building on a foundation in Python, SQL, and statistics
+- Comfortable across the stack: React/Next.js on the frontend, Node.js/Express and PHP on the backend, MySQL/MongoDB for data
+- Enjoy teaching and explaining technical concepts as much as building them
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-### 🏥 MediLocate — Healthcare Finder
+**Languages:** Python, Java, JavaScript, PHP, SQL
 
-A healthcare location platform designed to help users discover nearby doctors and medical facilities.
+**Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
 
-**Tech:** `JavaScript` `Leaflet` `OpenStreetMap` `Overpass API`
+**Backend:** Node.js, Express.js, PHP
 
-* 📍 Location-based healthcare search
-* 🗺️ Interactive map integration
-* 🩺 Specialty-based filtering
-* 📅 Doctor booking interface
-* 📏 Radius-based search
+**Databases:** MySQL, MongoDB
 
----
+**Data & Analytics:** Pandas, NumPy, Excel, Data Visualization, Statistics
 
-### 🎓 Student File Management System
-
-A web-based student management system developed as my final-year project.
-
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
-
-* 👨‍🎓 Student information management
-* 📋 Attendance registration
-* 📚 Study material/file management
-* 💳 Billing management
-* 🗄️ MySQL database integration
+**Tools:** VS Code, Git/GitHub, Vercel, Firebase, Postman
 
 ---
 
-### 🍔 FoodieHub — Restaurant Management System
+## Projects
 
-A restaurant/POS management application designed to simplify day-to-day restaurant operations.
+**MediLocate — Healthcare Finder**
+Location-based platform for discovering nearby doctors and medical facilities, with interactive maps and specialty filtering.
+`JavaScript` `Leaflet` `OpenStreetMap` `Overpass API`
 
-**Tech:** `React` `Node.js` `Express.js` `MySQL`
+**FoodieHub — Restaurant Management System**
+Full-stack POS and restaurant operations tool covering orders, menu/product management, and customer data.
+`React` `Node.js` `Express.js` `MySQL`
 
-* 🛒 Order management
-* 🍽️ Food/product management
-* 👥 Customer management
-* 📊 Operational data handling
+**Construction Monitoring System**
+Web application for tracking construction project progress, tasks, and resource allocation.
+`React` `Node.js` `MySQL`
 
----
-
-### 🏗️ Construction Monitoring System
-
-A web application designed to manage and monitor construction-related activities.
-
-**Tech:** `React` `Node.js` `MySQL`
-
-* 📋 Project/task management
-* 📊 Progress tracking
-* 👷 Resource management
-* 🗄️ Database-driven application
+**Student File Management System** *(Final-year project)*
+Student information system covering attendance, study materials, and billing.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 ---
 
-## 📊 Data Analytics Journey
+## Certifications
 
-Currently strengthening my skills for **Data Analyst & Data Scientist** opportunities.
-
-```text
-Excel
-  ↓
-SQL / MySQL
-  ↓
-Python
-  ↓
-Pandas + NumPy
-  ↓
-Data Cleaning
-  ↓
-Data Visualization
-  ↓
-Statistics
-  ↓
-Machine Learning
-```
-
-### 📈 Current Focus
-
-* 🐍 Python for Data Analysis
-* 🗄️ Advanced SQL
-* 📊 Excel & Data Visualization
-* 🧮 Statistics
-* 🐼 Pandas & NumPy
-* 🤖 Machine Learning
-* 📈 Building real-world data projects
+| Certification | Organization | Year |
+|---|---|---|
+| Data Analyst Core Certification | Besant Technologies | 2026 |
+| Python — Basic to Advanced | Skillauro Technologies | 2026 |
+| SQL — Basic to Advanced | Skillauro Technologies | 2026 |
 
 ---
 
-## 🏆 Certifications
+## Currently Learning
 
-| Certification                   | Organization           | Year |
-| ------------------------------- | ---------------------- | ---: |
-| Data Analyst Core Certification | Besant Technologies    | 2026 |
-| Python — Basic to Advanced      | Skillauro Technologies | 2026 |
-| SQL — Basic to Advanced         | Skillauro Technologies | 2026 |
+Advanced SQL, data analytics workflows, and machine learning fundamentals — alongside deepening React/Next.js and Node.js skills for production-grade applications.
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-React.js          ███████████████░░░  80%
-Next.js           ████████████░░░░░░  70%
-Node.js           ██████████░░░░░░░░  60%
-Advanced SQL      ████████████████░░  85%
-Data Analytics    ██████████████░░░░  75%
-Machine Learning  ████████░░░░░░░░░░  45%
-```
-
----
-
-## 💼 What I Do
-
-```javascript
-const sabarish = {
-    role: [
-        "Software Developer",
-        "Python Developer",
-        "Technical Trainer",
-        "Data Analytics Enthusiast"
-    ],
-
-    languages: [
-        "Python",
-        "Java",
-        "JavaScript",
-        "PHP",
-        "SQL"
-    ],
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "React",
-        "Next.js",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "PHP"
-    ],
-
-    databases: [
-        "MySQL",
-        "MongoDB"
-    ],
-
-    data: [
-        "Pandas",
-        "NumPy",
-        "Excel",
-        "Statistics",
-        "Data Visualization"
-    ],
-
-    goal: "Build useful software and become a strong Data + Software Engineer"
-};
-```
-
----
-
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabarish-E&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabarish-E&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabarish-E&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabarish-E&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabarish-E&theme=default&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🐍 My Contribution Snake
+## Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sabarish-E/Sabarish-E/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Developer Mindset
-
-> **"Don't just learn technology. Build with it."**
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat 🔁
-```
-
-### 🚀 Let's Build Something Awesome!
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
