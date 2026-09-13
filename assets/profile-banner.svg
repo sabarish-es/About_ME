@@ -1,0 +1,28 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#07111f"/>
+    <stop offset="55%" stop-color="#0b1830"/>
+    <stop offset="100%" stop-color="#101b35"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1030" cy="70" r="150" fill="#22d3ee" opacity=".06"/>
+<circle cx="1080" cy="250" r="190" fill="#a78bfa" opacity=".06"/>
+<path d="M0 300 C180 220 300 350 500 270 S850 180 1200 250" fill="none" stroke="url(#glow)" stroke-width="3" opacity=".7"/>
+<text x="70" y="135" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">SABARISH E</text>
+<text x="73" y="184" fill="#67e8f9" font-family="Arial, sans-serif" font-size="25" font-weight="600">SOFTWARE ENGINEER • PYTHON • DATA</text>
+<text x="73" y="225" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="19">Building practical applications • Teaching • Learning • Growing</text>
+<rect x="73" y="258" width="210" height="42" rx="21" fill="#111c33" stroke="#22d3ee" opacity=".95"/>
+<text x="178" y="286" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="16">Open to Opportunities</text>
+<g transform="translate(880 105)">
+<rect x="0" y="0" width="210" height="135" rx="16" fill="#0f1b31" stroke="#334155"/>
+<text x="105" y="48" text-anchor="middle" fill="#22d3ee" font-family="monospace" font-size="28">&lt;/&gt;</text>
+<text x="105" y="80" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="15">BUILD • DEBUG</text>
+<text x="105" y="104" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="15">ANALYZE • DEPLOY</text>
+</g>
+</svg>

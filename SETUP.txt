@@ -1,0 +1,10 @@
+# Setup
+
+1. Rename/replace `YOUR_GITHUB_USERNAME` in README.md with your actual GitHub username.
+2. Replace `YOUR_LINKEDIN_URL` with your LinkedIn profile URL.
+3. Create a GitHub repository with the exact same name as your username.
+4. Upload README.md and the `assets` folder.
+5. For the contribution snake, add a GitHub Action that generates:
+   `output/github-contribution-grid-snake.svg`
+
+The two custom SVG images in `assets/` are local, so they do not depend on external image hosting.

@@ -1,81 +1,253 @@
-# Sabarish E
+<div align="center">
 
-Software Developer & Technical Trainer | B.Sc. Computer Science, 2025
+<img src="./assets/profile-banner.svg" alt="Sabarish E profile banner" width="100%"/>
 
-I build full-stack web applications and am developing expertise in data analytics, with a focus on Python, SQL, and modern JavaScript frameworks.
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Python+Developer;Full+Stack+Developer+%7C+Data+Analytics+Enthusiast;Build+%7C+Debug+%7C+Learn+%7C+Repeat" alt="Typing SVG"/>
 
-## About
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-111827?style=for-the-badge&logo=rocket&logoColor=22d3ee" alt="Open to opportunities"/>
+</p>
 
-- Software developer and technical trainer with a background in full-stack web development
-- Working toward Data Analyst / Data Scientist roles, building on a foundation in Python, SQL, and statistics
-- Comfortable across the stack: React/Next.js on the frontend, Node.js/Express and PHP on the backend, MySQL/MongoDB for data
-- Enjoy teaching and explaining technical concepts as much as building them
-
----
-
-## Skills
-
-**Languages:** Python, Java, JavaScript, PHP, SQL
-
-**Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
-
-**Backend:** Node.js, Express.js, PHP
-
-**Databases:** MySQL, MongoDB
-
-**Data & Analytics:** Pandas, NumPy, Excel, Data Visualization, Statistics
-
-**Tools:** VS Code, Git/GitHub, Vercel, Firebase, Postman
+</div>
 
 ---
 
-## Projects
+## 👋 Hi, I'm Sabarish E
 
-**MediLocate — Healthcare Finder**
-Location-based platform for discovering nearby doctors and medical facilities, with interactive maps and specialty filtering.
+<img align="right" src="./assets/developer.svg" width="390" alt="Developer illustration"/>
+
+🎓 **B.Sc. Computer Science | 2025 Graduate**  
+💻 **Software Developer & Technical Trainer**  
+🐍 Python enthusiast with a strong backend foundation  
+📊 Preparing for **Data Analyst / Data Scientist** opportunities  
+⚡ Interested in building practical, database-driven applications  
+🚀 Currently sharpening **React, Next.js, Node.js & Data Analytics**
+
+### 🎯 What I'm working toward
+
+> **Becoming a versatile Software + Data professional who can build products, work with data, and explain technology clearly.**
+
+<br clear="right"/>
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css" alt="Programming skills"/>
+</p>
+
+### ⚛️ Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" alt="Frontend and backend skills"/>
+</p>
+
+### 🗄️ Database & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database skills"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-Data%20Analysis-7c3aed?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,firebase" alt="Tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 MediLocate
+
+Healthcare discovery platform with interactive maps.
+
+**Built with:**  
 `JavaScript` `Leaflet` `OpenStreetMap` `Overpass API`
 
-**FoodieHub — Restaurant Management System**
-Full-stack POS and restaurant operations tool covering orders, menu/product management, and customer data.
+**Highlights**
+- 📍 Location-based search
+- 🗺️ Interactive maps
+- 🩺 Specialty filters
+- 📏 Radius selection
+- 📅 Booking interface
+
+</td>
+<td width="50%">
+
+### 🎓 Student File Management
+
+Final-year web application for student administration.
+
+**Built with:**  
+`PHP` `MySQL` `JavaScript` `HTML` `CSS` `XAMPP`
+
+**Highlights**
+- 👨‍🎓 Student information
+- 📋 Attendance
+- 📚 Study materials
+- 💳 Billing
+- 🗄️ MySQL database
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍔 FoodieHub
+
+Restaurant/POS management application.
+
+**Built with:**  
 `React` `Node.js` `Express.js` `MySQL`
 
-**Construction Monitoring System**
-Web application for tracking construction project progress, tasks, and resource allocation.
+**Highlights**
+- 🛒 Order management
+- 🍽️ Product management
+- 👥 Customer management
+- 📊 Operational data
+
+</td>
+<td width="50%">
+
+### 🏗️ Construction Monitoring
+
+Database-driven construction monitoring application.
+
+**Built with:**  
 `React` `Node.js` `MySQL`
 
-**Student File Management System** *(Final-year project)*
-Student information system covering attendance, study materials, and billing.
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+**Highlights**
+- 📋 Task management
+- 📈 Progress tracking
+- 👷 Resource management
+- 🗄️ Database integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Certifications
+## 📊 Data Analytics Roadmap
+
+```text
+Excel
+  │
+  ▼
+SQL / MySQL
+  │
+  ▼
+Python
+  │
+  ├── Pandas
+  └── NumPy
+  │
+  ▼
+Data Cleaning
+  │
+  ▼
+Visualization
+  │
+  ▼
+Statistics
+  │
+  ▼
+Machine Learning
+```
+
+### 📚 Current Focus
+
+`Python for Data Analysis` • `Advanced SQL` • `Excel` • `Statistics` • `Pandas` • `NumPy` • `Visualization` • `Machine Learning`
+
+---
+
+## 🏆 Certifications
 
 | Certification | Organization | Year |
-|---|---|---|
+|---|---|---:|
 | Data Analyst Core Certification | Besant Technologies | 2026 |
 | Python — Basic to Advanced | Skillauro Technologies | 2026 |
 | SQL — Basic to Advanced | Skillauro Technologies | 2026 |
 
 ---
 
-## Currently Learning
+## 🧠 Developer Philosophy
 
-Advanced SQL, data analytics workflows, and machine learning fundamentals — alongside deepening React/Next.js and Node.js skills for production-grade applications.
+<div align="center">
 
----
+### **Learn → Build → Break → Debug → Improve → Repeat 🔁**
 
-## GitHub Stats
+> *"Don't just learn technology. Build something with it."*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabarish-E&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabarish-E&theme=default&hide_border=true" width="48%" />
-</p>
+</div>
 
 ---
 
-## Connect
+## 📈 GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> After enabling the GitHub Action for the snake, this section will show your contribution animation.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="90%"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider starring ⭐ some of my repositories.**
+
+</div>
