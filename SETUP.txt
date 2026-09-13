@@ -1,38 +1,15 @@
-# Sabarish GitHub Profile — Setup
+# Sabarish GitHub Profile — STATIC image version
+
+This version uses LOCAL SVG images stored inside `assets/`.
+
+Upload these files to the root of your profile repository:
+- README.md
+- assets/
+
+No GitHub Actions and no third-party stats image server are required for these images to display.
+
+IMPORTANT:
+The stats card is a visual snapshot based on the values visible in your current GitHub profile screenshot. It is intentionally static so it will display immediately. If you want live auto-updating statistics later, we can add GitHub Actions after the basic version is working.
 
 Repository:
 https://github.com/sabarish-es/sabarish-es
-
-## 1. Upload
-Upload:
-- README.md
-- assets/
-- .github/workflows/profile-cards.yml
-
-## 2. Run the workflow
-Open the repository:
-Actions -> Update GitHub Profile Cards -> Run workflow -> Run workflow
-
-The workflow generates:
-- assets/overview.light.svg
-- assets/overview.dark.svg
-- assets/contributions.light.svg
-- assets/contributions.dark.svg
-- assets/languages.light.svg
-- assets/languages.dark.svg
-- assets/rhythm.light.svg
-- assets/rhythm.dark.svg
-- assets/github-contribution-grid-snake.svg
-- assets/github-contribution-grid-snake.gif
-
-## 3. If Actions is disabled
-Go to the repository's Actions tab and enable workflows, then run the workflow manually.
-
-## Why the old images were broken
-The old README depended on public third-party Vercel image endpoints. Those services can be unreliable/rate-limited. The new version generates SVG cards inside your own profile repository using GitHub Actions, so the README loads local files instead. GitHub Readme Stats itself recommends GitHub Actions/static SVGs when the public endpoint is unreliable.
-
-## Important
-Your profile repository must be public and must be named exactly:
-sabarish-es
-
-Your README must be at the repository root.
