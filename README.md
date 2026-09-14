@@ -172,6 +172,11 @@ Database-driven construction monitoring application.
 
 ---
 
+## 📊 GitHub Analytics <div align="center"> <img src="./assets/github-stats.svg" alt="GitHub stats" width="100%"/> <br><br> <img src="./assets/github-activity.svg" alt="GitHub activity graph" width="100%"/> <br><br> <img src="./assets/github-languages.svg" alt="Technology focus" width="100%"/> </div> ---
+
+
+## 🐍 Contribution Snake <div align="center"> <img src="./assets/contribution-snake.svg" alt="Contribution Snake" width="100%"/> </div> ## 🌐 Let's Connect <div align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/sabarish-es"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <br/> <div align="center"> ### ⭐ Thanks for visiting my profile! **If you like my work, consider starring ⭐ some of my repositories.** </div> hey please remove the data analitice based and add the i am a software trainer in besant technologies experiance only update i mantion
+
 ## 🧠 What I'm Currently Learning
 
 ```text
